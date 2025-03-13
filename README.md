@@ -35,7 +35,6 @@ The project is divided into two main parts:
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02184650.png" width="500" height="300" style="object-fit: cover;" />
     <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02184731.png" width="500" height="300" style="object-fit: cover;" />
-    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02184819.png" width="150" height="300" style="object-fit: cover;" />
   </div>
 </p>
 
@@ -51,6 +50,7 @@ The project is divided into two main parts:
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02185434.png" width="150" height="300" style="object-fit: cover;" />
     <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02185659.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Capturadeecrã2025-03-02184819.png" width="150" height="300" style="object-fit: cover;" />
   </div>
 </p>
 
