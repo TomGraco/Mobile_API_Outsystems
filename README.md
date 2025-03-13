@@ -28,13 +28,14 @@ The project is divided into two main parts:
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="path/to/your-image1.png" width="500" height="300" style="object-fit: cover;" />
-    <img src="path/to/your-image2.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_184411.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_184556.png" width="500" height="300" style="object-fit: cover;" />
   </div>
   <br>
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <img src="path/to/your-image3.png" width="500" height="300" style="object-fit: cover;" />
-    <img src="path/to/your-image4.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_184650.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_184731.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_184819.png" width="150" height="300" style="object-fit: cover;" />
   </div>
 </p>
 
@@ -42,10 +43,14 @@ The project is divided into two main parts:
 
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 100px; align-items: center;">
-    <img src="path/to/your-image5.png" width="150" height="300" style="object-fit: cover;" />
-    <img src="path/to/your-image6.png" width="150" height="300" style="object-fit: cover;" />
-    <img src="path/to/your-image7.png" width="150" height="300" style="object-fit: cover;" />
-    <img src="path/to/your-image8.png" width="150" height="300" style="object-fit: cover;" /> 
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_185104.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_185227.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_185404.png" width="150" height="300" style="object-fit: cover;" /> 
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_185434.png" width="150" height="300" style="object-fit: cover;" />
+    <img src="Mobile_API_Outsystems/Pictures_Mobile_API/Captura_de_ecrã_2025-03-02_185659.png" width="150" height="300" style="object-fit: cover;" />
   </div>
 </p>
 
