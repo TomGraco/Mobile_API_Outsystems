@@ -11,8 +11,8 @@ The project is divided into two main parts:
     *   **Registration:** Allows new customers to register via a form, with data persisted in both the application and the store's database via the API.
     *   **Intuitive Navigation:** All screens feature top and bottom navigation shortcuts for ease of use.
     *   **Home Screen:** Showcases a search field and four curated game selections, displayed as cards in a carousel.
-    *   **Search:** Enables filtering of products by minimum and maximum price, as well as by game genre or platform.
-    *   **Game Details:** Provides detailed information about each game, including price, description, cover image, developer, and release date.
+    *   **Search:** Allows users to search for products.
+    *   **Game Details:** Provides detailed information about each game, including price, description, cover image, genre, and category.
     *   **Shopping Cart:** Allows users to add games to their cart, remove items, and complete purchases, sending orders to the store.
     *   **Orders:** Displays a list of all customer orders, with the ability to view details of specific orders, including purchased games and order status.
 
@@ -21,6 +21,14 @@ The project is divided into two main parts:
     *   **Game Viewing and Management:** Allows viewing of all store products, modification of data, and addition of new games. Game addition leverages the external API to fetch game images, names, and descriptions.
     *   **Order Management:** Enables viewing of customer orders, checking order details, confirming item separation, updating order status, and canceling orders.
     *   **User Administration:** Provides a dedicated interface for managing users, including assigning and revoking access permissions to system functionalities.
+  
+## Email Automation
+
+**On Order Shippment:**
+
+When the status of an order is updated to **"Shipped"**, an email is automatically triggered and sent to the customer with overall information about their order, including all client details, order details, and shipping information.
+
+2.  **Web Application for the Seller:**
 
 ## Screenshots/Images
 
