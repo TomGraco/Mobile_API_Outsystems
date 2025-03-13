@@ -21,6 +21,7 @@ The project is divided into two main parts:
     *   **Game Viewing and Management:** Allows viewing of all store products, modification of data, and addition of new games. Game addition leverages the external API to fetch game images, names, and descriptions.
     *   **Order Management:** Enables viewing of customer orders, checking order details, confirming item separation, updating order status, and canceling orders.
     *   **User Administration:** Provides a dedicated interface for managing users, including assigning and revoking access permissions to system functionalities.
+
   
 ## Email Automation
 
@@ -28,7 +29,6 @@ The project is divided into two main parts:
 
 When the status of an order is updated to **"Shipped"**, an email is automatically triggered and sent to the customer with overall information about their order, including all client details, order details, and shipping information.
 
-2.  **Web Application for the Seller:**
 
 ## Screenshots/Images
 
